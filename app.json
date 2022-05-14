@@ -8,7 +8,7 @@
         "video stream"
     ],
     "website": "https://fzbots.me",
-    "repository": "https://github.com/MOnster-ZeroX/Video-Stream-X-Bot",
+    "repository": "https://github.com/Sanuw45/Video-Stream-X-Bot",
     "success_url": "https://t.me/FZBOTS",
     "env": {
         "API_ID": {
